@@ -2,6 +2,7 @@
 On Screen Display For Increase and Decreasing System Volume
 
 Download release [https://github.com/shade-sdev/OSDVolume/releases/download/1.0/OSDVolume_V1.0.rar]
+
 Extract release and open ini file [osdConfig.ini]
 
 Default Keys are
