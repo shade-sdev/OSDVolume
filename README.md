@@ -1,5 +1,5 @@
 # OSDVolume
-On Screen Display For Increase and Decreasing System Volume
+On Screen Display For Increasing and Decreasing System Volume
 
 Download release [https://github.com/shade-sdev/OSDVolume/releases/download/1.0/OSDVolume_V1.0.rar]
 
