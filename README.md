@@ -1,7 +1,7 @@
 # OSDVolume
 On Screen Display For Increasing and Decreasing System Volume
 
-Download release [https://github.com/shade-sdev/OSDVolume/releases/download/1.0/OSDVolume_V1.0.rar]
+Download release [https://github.com/shade-sdev/OSDVolume/releases/download/1.3/OsdVolume.V1.3.rar]
 
 Extract release and open ini file [osdConfig.ini]
 
